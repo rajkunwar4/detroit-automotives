@@ -3,7 +3,7 @@ import ProductCard from "./ProductCard";
 
 const OurProducts = () => {
   return (
-    <div className="container text-center py-10">
+    <div className="container text-center py-10 my-10">
       <h2 className="text-3xl sm:text-4xl tracking-tighter font-bold underline underline-offset-8">
         Our Products
       </h2>
