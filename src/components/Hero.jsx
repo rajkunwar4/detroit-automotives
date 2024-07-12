@@ -6,7 +6,7 @@ const Hero = () => {
       <img
         src="https://hellaeconnect.com/new_web/assets/frontend/imgs/banner/BannerC.jpg?v=1"
         alt=""
-        className=""
+        className="min-h-[220px] "
       />
 
       <div className="flex flex-col gap-3 sm:gap-4 container mt-10 text-center ">
